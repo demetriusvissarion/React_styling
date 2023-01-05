@@ -1,4 +1,3 @@
-import { buildQueries } from "@testing-library/react";
 import React, { useState } from "react";
 
 import Button from "../../UI/Button/Button";
